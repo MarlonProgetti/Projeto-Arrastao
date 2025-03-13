@@ -16,6 +16,8 @@ try {
   echo $e;
 }
 
-
+//Variaveis globais
+$nome_sistema = 'Nome Sistema';
+$email_sistema = 'marlop.dossantos@gmail.com';
 
 ?>
