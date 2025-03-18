@@ -19,5 +19,6 @@ try {
 //Variaveis globais
 $nome_sistema = 'Nome Sistema';
 $email_sistema = 'marlop.dossantos@gmail.com';
+$telefone_sistema = '(19)99628-6671';
 
 ?>
