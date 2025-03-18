@@ -21,6 +21,7 @@ $query = $pdo->query("SELECT * from usuarios where id = '$id_usuario'");
     $senha_usuario = $res[0]['senha'];
     $nivel_usuario = $res[0]['nivel'];
     $foto_usuario = $res[0]['foto'];
+    $endereco_usuario = $res[0]['endereco'];
   }
 
 ?>
@@ -121,7 +122,8 @@ $query = $pdo->query("SELECT * from usuarios where id = '$id_usuario'");
   <!-- //pie-chart -->
   <!-- index page sales reviews visitors pie chart -->
 
-
+  <link href="https://cdn.datatables.net/v/dt/dt-1.13.2/datatables.min.cs" />
+  <script src="https://cdn.datatables.net/v/dt/dt-1.13.2/datatables.min.js"></script>
 </head>
 
 <body class="cbp-spmenu-push">
@@ -137,7 +139,7 @@ $query = $pdo->query("SELECT * from usuarios where id = '$id_usuario'");
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <h1><a class="navbar-brand" href="index.php"><span class="fa fa-cutlery"></span> Projeto Arrastão<span class="dashboard_text"></span></a></h1>
+            <h1><a class="navbar-brand" href="index.php"><span class="fa fa-globe"></span> Projeto Arrastão<span class="dashboard_text"></span></a></h1>
           </div>
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="sidebar-menu">
@@ -388,6 +390,12 @@ $query = $pdo->query("SELECT * from usuarios where id = '$id_usuario'");
               <input type="password" class="form-control" id="conf_senha_perfil" name="conf_senha" placeholder="Confirmar Senha" value="" required>
             </div>
 
+            <div class="row">
+              <div class="col-md-12">
+                <label>Endereço</label>
+                <input type="text" class="form-control" id="endereco_perfil" name="endereco" placeholder="Seu endereço" value="<?php echo $endereco_usuario ?>">
+              </div>
+            </div>
 
             <div class="row">
               <div class="col-md-6">

@@ -28,8 +28,8 @@
       <img class="login_logo" src="img/arrastao-logo.jpg" alt="
       logo arrastao">
       <form method="post" action="autenticar.php">
-        <input type="email" name="usuario" placeholder="Seu Email">
-        <input type="password" name="senha" placeholder="Senha">
+        <input type="email" name="usuario" placeholder="Seu Email" required>
+        <input type="password" name="senha" placeholder="Senha" required>
         <button>Login</button>
       </form>
     </div>
