@@ -1,29 +1,32 @@
-📚 Portal do Aluno – Projeto Arrastão
+# 📚 Portal do Aluno – Projeto Arrastão
 
-🏫Sobre o Projeto
-Este é um trabalho voluntário que eu e minha equipe estamos desenvolvendo para a ONG Projeto Arrastão. O Portal do Aluno tem como objetivo facilitar e agilizar a vida dos alunos, pais e professores, tornando a comunicação e a gestão acadêmica mais acessível e eficiente.
+## 🏫 Sobre o Projeto
+Este é um trabalho voluntário que eu e minha equipe estamos desenvolvendo para a ONG Projeto Arrastão. O **Portal do Aluno** tem como objetivo facilitar e agilizar a vida dos alunos, pais e professores, tornando a comunicação e a gestão acadêmica mais acessível e eficiente.
 
-🚀Tecnologias Utilizadas
-Linguagem: PHP
-Banco de Dados: MySQL
-Front-end: HTML, CSS, JavaScript
-Versionamento: Git & GitHub
+## 🚀 Tecnologias Utilizadas
+- **Linguagem:** PHP
+- **Banco de Dados:** MySQL
+- **Front-end:** HTML, CSS, JavaScript
+- **Versionamento:** Git & GitHub
 
-📸 Capturas de Tela
+## 📸 Capturas de Tela
 Aqui estão algumas imagens do projeto em desenvolvimento:
 
-📌 Funcionalidades
-✅ Cadastro e login de alunos
-✅ Gerenciamento de notas e frequência
-✅ Comunicação entre alunos e professores
-✅ Painel administrativo
+*(Você pode adicionar imagens aqui, caso tenha)*
 
-📅 Próximos Passos
-📌 Melhorar a interface do usuário
-📌 Implementar autenticação JWT
-📌 Adicionar notificações
+## 📌 Funcionalidades
+- ✅ Cadastro e login de alunos
+- ✅ Gerenciamento de notas e frequência
+- ✅ Comunicação entre alunos e professores
+- ✅ Painel administrativo
 
-🏆 Contribuição
-Se quiser contribuir com o projeto, fique à vontade para abrir issues ou fazer um pull request!
+## 📅 Próximos Passos
+- 📌 Melhorar a interface do usuário
+- 📌 Implementar autenticação JWT
+- 📌 Adicionar notificações
 
-📩 Contato: [Marlon Progetti https://www.linkedin.com/in/marlon-progetti-2799ab179/]
+## 🏆 Contribuição
+Se quiser contribuir com o projeto, fique à vontade para abrir **issues** ou fazer um **pull request**!
+
+## 📩 Contato
+[Marlon Progetti](https://www.linkedin.com/in/marlon-progetti-2799ab179/)
