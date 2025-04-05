@@ -9,11 +9,6 @@ Este é um trabalho voluntário que eu e minha equipe estamos desenvolvendo para
 - **Front-end:** HTML, CSS, JavaScript
 - **Versionamento:** Git & GitHub
 
-## 📸 Capturas de Tela
-Aqui estão algumas imagens do projeto em desenvolvimento:
-
-*(Você pode adicionar imagens aqui, caso tenha)*
-
 ## 📌 Funcionalidades
 - ✅ Cadastro e login de alunos
 - ✅ Gerenciamento de notas e frequência
